@@ -54,9 +54,6 @@ margin-top: 60vh;
     font-family: Arial, Helvetica, sans-serif;
     color: white;
 }
-.btn:hover{
-        transform: scale(2);
-}
 .centrado{
     text-align: center;
 }
